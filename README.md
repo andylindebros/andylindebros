@@ -3,7 +3,8 @@ Many years of different kind of development experience. Both frontend and backen
 
 ##
 ### LBClockApp for MacOS plus screensaver
-(LBClockApp)[https://projects.lindebros.com/lbclock/screenshot.png]
+![LBClockApp](https://projects.lindebros.com/lbclock/screenshot.png)
+
 https://projects.lindebros.com/lbclock/index.html
 
 # LinkedIn
