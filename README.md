@@ -6,7 +6,8 @@ Many years of different kind of development experience. Both frontend and backen
 <a href="https://projects.lindebros.com/lbclock/index.html" target="_blank">
 <img src="https://projects.lindebros.com/lbclock/screenshot.png" alt="drawing" style="width:200px;"/>
 </a>
-LBClock is a screensaver app for macOS written with SwiftUI. Download the app that comes with a screensaver: https://projects.lindebros.com/lbclock/index.html
+
+LBClock is a screensaver app for macOS, structured with a MVVM pattern and written with SwiftUI. Download the app that comes with a screensaver: https://projects.lindebros.com/lbclock/index.html
 
 ### BeatyNeat Tuner iOS App
 <a href="https://apps.apple.com/se/app/beatyneattuner/id6470951462" target="_blank">
@@ -28,7 +29,7 @@ BeatyNeat Metronome helps you to keep your beat. It is a easy to use with a nice
 <img src="https://projects.lindebros.com/spotpriset/screenshot.png" alt="drawing" style="width:200px;"/>
 </a>
 
-A macOS app that shows the current energy spot price in the four regions of Sweden (in Swedish).
+A macOS app that shows the current energy spot price in the four regions of Sweden (in Swedish). It fetches data from the open API provided by  https://www.elprisetjustnu.se/. The app is structured with MVVM and written with SwiftUI, Combine and Swift Concurrency.
 Download the app here: https://projects.lindebros.com/spotpriset/index.html
 
 # LinkedIn
