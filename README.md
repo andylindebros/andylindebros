@@ -3,7 +3,9 @@ Many years of different kind of development experience. Both frontend and backen
 
 ##
 ### LBClockApp for MacOS plus screensaver
-![LBClockApp](https://projects.lindebros.com/lbclock/screenshot.png)
+<a href="https://projects.lindebros.com/lbclock/index.html" target="_blank">
+<img src="[drawing.jpg](https://projects.lindebros.com/lbclock/screenshot.png)" alt="drawing" style="width:200px;"/>
+</a>
 
 https://projects.lindebros.com/lbclock/index.html
 
