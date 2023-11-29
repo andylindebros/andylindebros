@@ -12,6 +12,7 @@ LBClock is a screensaver app for macOS written with SwiftUI. Download the app th
 <a href="https://apps.apple.com/se/app/beatyneattuner/id6470951462" target="_blank">
 <img src="https://media.licdn.com/dms/image/sync/D4E27AQEOZ-nLm6k9-g/articleshare-shrink_800/0/1700124884544?e=1701856800&v=beta&t=C1C865IVcjpx5LKvRXKdN4QOQLuFDeK2kSZ4L4RuwM8" style="width:200px;"/>
 </a>
+
 BeatyNeatTuner is a punky chromatic instrument tuner that allows you to quickly tune your instrument using the built in mic in your iphone or ipad. The app is structured with MVVM and is written with SwiftUI, Combine, Swift Concurrency and [AudioKit](https://github.com/AudioKit/AudioKit)
 Download it from [App Store](https://apps.apple.com/se/app/beatyneattuner/id6470951462)
 
