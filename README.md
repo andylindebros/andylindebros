@@ -29,7 +29,7 @@ BeatyNeat Metronome helps you to keep your beat. It is a easy to use with a nice
 <img src="https://projects.lindebros.com/spotpriset/screenshot.png" alt="drawing" style="width:200px;"/>
 </a>
 
-A macOS app that shows the current energy spot price in the four regions of Sweden (in Swedish). It fetches data from the open API provided by  https://www.elprisetjustnu.se/. The app is structured with MVVM and written with SwiftUI, Combine and Swift Concurrency.
+A macOS app that shows the current energy spot price in the four regions of Sweden (in Swedish). It fetches data from the open API provided by  https://www.elprisetjustnu.se/. The app is structured with MVVM and written with SwiftUI, Combine and Swift Concurrency. Checkout my APIClient that is available here: https://github.com/andylindebros/LindebrosApiClient 
 Download the app here: https://projects.lindebros.com/spotpriset/index.html
 
 # LinkedIn
