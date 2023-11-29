@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Many years of different kind of development experience. Both frontend and backend developer. I've developed mobile web applications, API services, video streaming services, iOS apps. I work especially with technologies and frameworks such as Swift, Obj-C, SwiftUI, UIKit, React Native, Redux, Python, javascript etc. 
 <!--
 **andylindebros/andylindebros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
