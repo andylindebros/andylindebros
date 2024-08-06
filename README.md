@@ -1,5 +1,13 @@
 ### Hi there 👋
-Many years of different kind of development experience. Both frontend and backend developer. I've developed mobile web applications, API services, video streaming services, iOS apps. I work especially with technologies and frameworks such as Swift, Obj-C, SwiftUI, UIKit, React Native, Redux, Python, javascript etc. 
+Many years of different kind of development experience. Both frontend and backend developer. I've developed mobile web applications, API services, video streaming services, iOS apps. I work especially w!ith technologies and frameworks such as Swift, Obj-C, SwiftUI, UIKit, React Native, Redux, Python, javascript etc. 
+
+## Projects
+
+### Acorda - Vintage sound organAcorda - Vintage sound organ
+Acorda is a nice vintage organ Audio Unit Plugin that can be used in music projects and with DAWs like Logic Pro. Written in Swift and for Mac. It comes with a beautiful UI in 3D that provides the best user experience. Open and play on it from a midi keyboard or use it in any DAW that supports AUV3.
+ <a href="https://lindebrothers.github.io/lindebros-engineering/" target="blank">Read more</a>
+
+<a href="https://lindebrothers.github.io/lindebros-engineering/" target="blank"><img src="https://github.com/user-attachments/assets/5b4ac031-db6d-43e1-8202-3e3421ea9e63" style="width:400px;"/></a>
 
 ##
 ### LBClockApp for MacOS plus screensaver
@@ -10,9 +18,6 @@ Many years of different kind of development experience. Both frontend and backen
 LBClock is a screensaver app for macOS, structured with a MVVM pattern and written with SwiftUI. Download the app that comes with a screensaver: https://projects.lindebros.com/lbclock/index.html
 
 ### BeatyNeat Tuner iOS App
-
-
-
 <a href="https://apps.apple.com/se/app/beatyneattuner/id6470951462" target="_blank">
 <img src="https://github.com/user-attachments/assets/a4040979-8f9b-4c2f-ac50-2078fbd7fc64" style="width:200px;"/>
 </a>
